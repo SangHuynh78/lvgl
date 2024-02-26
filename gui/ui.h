@@ -2,6 +2,8 @@
 // SquareLine Studio version: SquareLine Studio 1.3.4
 // LVGL version: 8.3.6
 // Project name: SquareLine_Project
+// Author: HTSANG
+
 
 #ifndef _SQUARELINE_PROJECT_UI_H
 #define _SQUARELINE_PROJECT_UI_H
